@@ -9,7 +9,7 @@ import './App.css';
 // Dummy images
 const images = [
   {
-    'src': 'umesh.png',
+    'src': 'umesh.PNG',
     'caption': 'we love umeshpatel789'
   },
   {
@@ -44,11 +44,11 @@ const images = [
     'caption': 'first ever boo basket given and received ✅',
   },
   {
-    'src': 'emergencypickup.png',
+    'src': 'emergencypickup.PNG',
     'caption': 'the 3 musketeers in an emergency pickup'
   },
   {
-    'src': 'experiment.jpg',
+    'src': 'experiment.JPG',
     'caption': 'our... experiment',
   },
   {
@@ -56,7 +56,7 @@ const images = [
     'caption': 'cute',
   },
   {
-    'src': 'flowersrila.png',
+    'src': 'flowersrila.PNG',
     'caption': 'ur so cute',
   },
   {
@@ -69,11 +69,7 @@ const images = [
   },
   {
     'src': 'jacked.jpeg',
-    'caption': 'flex on me harder'
-  },
-  {
-    'src': 'helicopter.jpg',
-    'caption': 'me n my girl in my new whip',
+    'caption': 'muscle mommy'
   },
   {
     'src': 'mexico.jpeg',
@@ -88,7 +84,7 @@ const images = [
     'caption': 'super shy',
   },
   {
-    'src': 'me.jpg',
+    'src': 'me.JPG',
     'caption': 'me when im not with u',
   },
   {
@@ -100,11 +96,11 @@ const images = [
     'caption': 'u showed me how its done',
   },
   {
-    'src': 'oijibowl.jpeg',
+    'src': 'oijibowl.JPEG',
     'caption': 'one of our best indulgences',
   },
   {
-    'src': 'pubgdubs.png',
+    'src': 'pubgdubs.PNG',
     'caption': 'we\'re the boat',
   },
   {
@@ -227,8 +223,8 @@ function App() {
         <div style={{ zIndex: 999, padding: '5px', backgroundColor: '#fae3f8', position: 'relative', width: '30%', margin: 'auto' }}>
           <p>
             this one's been a long time coming...
-            we've been talking for a long while and i'm surprised that it took me that long while to realize that
-            i not only like u as a person but i like having u in my life.
+            we've been talking for a long while and i'm surprised that it took me this long of a while to realize that
+            i not only like u as a person but that i like having u in my life.
           </p>
           <p>
             i liked all the little things in the early days... the countless
@@ -236,8 +232,8 @@ function App() {
             that didn't matter, our late night jbo runs to get u ur diet coke fix + "sweet treat", playing smash in my car, word hunt...
           </p>
           <p>
-            then i saw a different kelsea in our nyc arc: the kelsea that took me around the city and shared with me all the food and drink she liked and
-            the things she enjoyed doing. from my first ever paint n pour to talking over drinks at gem saloon to experiencing oijimi for the first 
+            and then i saw a different kelsea in our nyc arc: the kelsea that took me around the city and shared with me all the food and drink she liked and
+            the activities she enjoyed doing. from my first ever paint n pour to talking over drinks at gem saloon to experiencing oijimi for the first 
             time together, it felt like these experiences were exclusive to us.
           </p>
           <p>
@@ -245,9 +241,10 @@ function App() {
             and see u, enjoy slow-paced days together and order in for lunch. for the first time, it felt like i could spend unlimited time with u.
           </p>
           <p>
-            thousands of word hunt games, at least 50 pubg games later and reaching diamond, i feel like we're more than ready to date.
+            now that we're both back in the bay again, where everything started, it feels like a fitting time to call it a day and start the next phase.
+            thousands of word hunt games and at least 50 pubg games later (hitting diamond), i feel like we're more than ready to date.
           </p>
-          <p>will u be my girlfriend? 🤍</p>
+          <p>will u be my 여자 친구? 🤍</p>
           <button onClick={() => setAnswer("yes")}>Yes</button>
           <button onClick={() => setAnswer("no")}>싫어</button>
         </div>
